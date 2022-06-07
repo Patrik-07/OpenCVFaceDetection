@@ -1,6 +1,6 @@
 # OpenCVFaceDetection
 
-![OpenCV FaceDetection01](doc/coverGig.gif)
+![OpenCV FaceDetection01](doc/coverGif.gif)
 ![OpenCV FaceDetection02](doc/cover.png)
 
 ## Description
