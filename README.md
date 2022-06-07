@@ -1,6 +1,6 @@
 # OpenCVFaceDetection
 
-![OpenCV FaceDetection](cover.gif)
+![OpenCV FaceDetection](doc/cover.gif)
 
 ## Description
 This project was done by 3. 
